@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241509460403",
+    "project_id": "adlogin1-414b6",
+    "storage_bucket": "adlogin1-414b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241509460403:android:cad1362c0ce30071bac3c6",
+        "android_client_info": {
+          "package_name": "com.example.firebasefroga1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRQVsNrCGuAZhmKKnepIp_tWilWoYP1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
